@@ -14,7 +14,7 @@ Download this package into your project and include using:
 
 ```php
     <?php
-        require 'path/to/LinkedIn/src/PHPLI/LinkedIn.php';
+        require 'path/to/LinkedIn/autoload.php';
 ```
 
 ## Usage
