@@ -78,6 +78,7 @@ class LinkedIn
      *
      * @param string[] $scope
      * @return string The login URL
+     * @throws Exceptions\ArgumentMissingException
      */
     public function getLoginURL($scope = array())
     {
