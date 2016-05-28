@@ -6,7 +6,7 @@ A PHP library to provide easy interaction with the LinkedIn API
 
 Install this package via composer:
 
-Run `composer require jackbutler/phpli`
+Run `composer require jackbutler/php-linkedin`
 
 Install manually:
 
